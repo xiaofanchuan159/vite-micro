@@ -1,0 +1,1 @@
+import{r as i}from"./index-CAvf3DnO.js";const s=(e,o={})=>{window.__POWERED_BY_WUJIE__?window.$wujie.bus.$emit("onMicroMessage-micro-app",{type:"addSameTab",message:{path:"/micro/vite/detail",query:{microPath:e,...o.query}}}):i.push({path:e,query:o.query||{}})};export{s as u};

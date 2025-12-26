@@ -1,0 +1,1 @@
+export const ALL_MENU_KEY = import.meta.env.VITE_APP_SHORT_NAME + 'ALL_MENU__LIST__';
